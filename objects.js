@@ -5,7 +5,7 @@ var player = {
     |        |
     |        |
     |________|
-
+//Comment
     x, y
   */
   pos: [100, 160],
